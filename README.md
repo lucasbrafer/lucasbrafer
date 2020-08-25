@@ -1,4 +1,4 @@
-### Lucas Braga
+### Lucas Braga [![LinkedIn][1.2]][1]
 Hello, I'm Lucas - a student Information System at PUC Minas and Frontend Developer at QueroEstágios.
 
 <!--
@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter], or on .
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-kpytn&psig=AOvVaw1EFIUyxtp9cY8WRvNIueeb&ust=1598467279225000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjIhbritesCFQAAAAAdAAAAABAn 
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.linkedin.com/in/lucas-braga-ferreira/
