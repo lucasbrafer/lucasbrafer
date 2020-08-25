@@ -1,4 +1,4 @@
-### Lucas Braga
+### Lucas Braga [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) [2]: https://www.linkedin.com/in/lucas-braga-ferreira/
 Hello, I'm Lucas - a student Information System at PUC Minas and Frontend Developer at QueroEstágios.
 
 <!--
