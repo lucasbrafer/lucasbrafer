@@ -1,5 +1,5 @@
 ### Lucas Braga
-Hello, I'm Lucas - a student at PUC Minas of Information systems and Frontend Developer at QueroEstágios.
+Hello, I'm Lucas - a student at PUC Minas of Information Systems and Frontend Developer at QueroEstágios.
 
 <!--
 **lucasbrafer/lucasbrafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
