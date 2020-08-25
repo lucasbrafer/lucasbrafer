@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can find me on [![Twitter], or on .
-
 <!-- Icons -->
 
-[1.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-kpytn&psig=AOvVaw1EFIUyxtp9cY8WRvNIueeb&ust=1598467279225000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjIhbritesCFQAAAAAdAAAAABAn 
+[1.2]: https://w7.pngwing.com/pngs/230/641/png-transparent-computer-icons-share-icon-others-blue-text-trademark-thumbnail.png
 
 <!-- Links to your social media accounts -->
 
