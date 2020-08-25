@@ -1,4 +1,4 @@
-### Lucas Braga [![LinkedIn][1.2]][1]
+### Lucas Braga
 Hello, I'm Lucas - a student Information System at PUC Minas and Frontend Developer at QueroEstágios.
 
 <!--
@@ -18,11 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Icons -->
-
-[1.2]: (https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667 | width=2)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/lucas-braga-ferreira/
