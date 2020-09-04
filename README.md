@@ -1,5 +1,7 @@
 ### Lucas Braga
 Hello, I'm Lucas - a student Information System at PUC Minas and Frontend Developer at QueroEstágios.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lucasbrafer/lucasbrafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
