@@ -1,7 +1,7 @@
 ### Lucas Braga
 Hello, I'm Lucas - a student Information System at PUC Minas and Frontend Developer at QueroEstágios.<br/>
 
-#### More Pins :pushpin:
+### More Pins :pushpin:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbrafer&repo=GrafosDragao)](https://github.com/lucasbrafer/GrafosDragao)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbrafer&repo=GrafosRedotica)](https://github.com/lucasbrafer/GrafosRedotica)
 
