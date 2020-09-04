@@ -2,8 +2,8 @@
 Hello, I'm Lucas - a student Information System at PUC Minas and Frontend Developer at QueroEstágios.<br/>
 
 #### More Pins :pushpin:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbrafer&repo=GrafosDragao)](https://github.com/lucasbrafer/GrafosDragao)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbrafer&repo=GrafosRedotica)](https://github.com/lucasbrafer/GrafosRedotica)
 
 <!--
 **lucasbrafer/lucasbrafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
