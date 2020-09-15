@@ -1,5 +1,5 @@
 ### Lucas Braga
-Hello, I'm Lucas - a student Information System at PUC Minas.<br/>
+Hello, I'm Lucas - IT technician and student Information System at PUC Minas.<br/>
 
 ### More Pins :pushpin:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbrafer&repo=GrafosDragao)](https://github.com/lucasbrafer/GrafosDragao)
