@@ -1,5 +1,5 @@
 ### Lucas Braga
-Hello, I'm Lucas - IT technician and student Information System at PUC Minas.<br/>
+Hello, I'm Lucas - IT technician and B.Sc Information System at PUC.<br/>
 
 <!--
 
